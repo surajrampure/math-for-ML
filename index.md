@@ -20,6 +20,10 @@ EECS 298, Fall 2025 at the <b><span style="background-color: #FFCB05; color: #00
 {: .green }
 Linear algebra forms the basis of modern machine learning and artificial intelligence. _Mathematics for Machine Learning_ will introduce students to the theory of linear algebra while exposing them to its applications to real-world machine learning problems in Python.
 
+<img src="assets/site-images/preview.png" style="width: 100%; margin: 8px 0;">
+
+<!-- 1. TOC
+{:toc} -->
 
 ## Content
 
@@ -88,15 +92,3 @@ TBD.
 **Is this class the same as EECS 398: Practical Data Science?**
 
 No, this class is completely separate from EECS 398: Practical Data Science. EECS 298: Mathematics for Machine Learning focuses on the theoretical foundations of machine learning, while EECS 398: Practical Data Science took a more practical approach. EECS 398: Practical Data Science won't be offered in Fall 2025, but we hope to offer it again in the future.
-
-<!-- 
-
-
-{: .green }
-**The Midterm Exam is on Tuesday, February 25th, from 7-9PM. Read [this post on Ed](https://edstem.org/us/courses/69737/discussion/6233420) for logistical information, including your seat assignment.**
-
-[Jump to Week 8: Midterm Exam](#week-8-midterm-exam){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
-
-{% for module in site.modules %}
-{{ module }}
-{% endfor %} -->
