@@ -4,6 +4,8 @@ title: 🏡 Home
 description: >-
   "Information about EECS 298: Mathematics for Machine Learning in Fall 2025 at the University of Michigan."
 nav_order: 1
+redirect_from:
+  - /math-for-ml/
 ---
 
 # Mathematics for Machine Learning 🧠
