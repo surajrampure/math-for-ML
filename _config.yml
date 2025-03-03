@@ -17,7 +17,7 @@ title: EECS 298
 tagline: Mathematics for Machine Learning, Fall 2025 at the University of Michigan
 # description: A modern, highly customizable, responsive Jekyll template for course websites
 author: EECS 298 course staff
-baseurl: '/math-for-ml' # the subpath of your site, e.g. /blog
+baseurl: '/math-for-ML' # the subpath of your site, e.g. /blog
 url: 'https://rampure.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
