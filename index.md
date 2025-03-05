@@ -20,8 +20,7 @@ EECS 298, Fall 2025 at the <b><span style="background-color: #FFCB05; color: #00
 4 credits • Open to all majors • Credit TBD 
 
 {: .green }
-Linear algebra forms the basis of modern machine learning and artificial intelligence. _Mathematics for Machine Learning_ will introduce students to the theory of linear algebra while exposing them to its applications to real-world machine learning problems in Python.
-
+Linear algebra forms the basis of modern machine learning and artificial intelligence. _Mathematics for Machine Learning_ will introduce students to the theory of linear algebra while exposing them to its applications to real-world machine learning problems using Python. After taking this course, students will understand the mathematical underpinnings of linear regression, neural networks, gradient descent, decision trees, dimensionality reduction, and other core ideas in machine learning.
 <img src="assets/site-images/preview.png" style="width: 100%; margin: 8px 0;">
 
 <!-- 1. TOC
