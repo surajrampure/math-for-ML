@@ -19,17 +19,20 @@ EECS 298, Fall 2025 at the <b><span style="background-color: #FFCB05; color: #00
 
 4 credits • Open to all majors • Credit TBD 
 
-{: .green }
-Linear algebra forms the basis of modern machine learning and artificial intelligence. _Mathematics for Machine Learning_ will introduce students to the theory of linear algebra while exposing them to its applications to real-world machine learning problems using Python. After taking this course, students will understand the mathematical underpinnings of linear regression, neural networks, gradient descent, decision trees, dimensionality reduction, and other core ideas in machine learning.
+<!-- {: .green }
+Linear algebra forms the basis of modern machine learning and artificial intelligence. _Mathematics for Machine Learning_ will introduce students to the theory of linear algebra while exposing them to its applications to real-world machine learning problems using Python. After taking this course, students will understand the mathematical underpinnings of linear regression, neural networks, gradient descent, decision trees, dimensionality reduction, and other core ideas in machine learning. -->
 
 <img src="assets/site-images/preview.png" style="width: 100%; margin: 8px 0;">
 
 <!-- 1. TOC
 {:toc} -->
 
-## Content
+<!-- ## Content -->
 
-**This course will introduce linear algebra from scratch, in the context of machine learning and artificial intelligence.** It will focus on giving students strong intuition for how linear algebra is applied in machine learning, and will bring in ideas from calculus and probability as needed. While the course is primarily theoretical, we'll look at practical applications involving real data each week, so that students are able to apply what they've learned.
+{: .green }
+Linear algebra, calculus, and probability form the basis of modern machine learning and artificial intelligence. **This course will introduce linear algebra from scratch, with the goal of developing a foundational understanding of the mathematical underpinnings of machine learning.** It will focus on giving students strong intuition for how linear algebra is applied in machine learning, and will bring in ideas from calculus and probability to fully illustrate relevant concepts. While the course is primarily theoretical, we'll look at practical applications involving real data in Python each week, so that students are able to apply what they've learned.
+
+## Content
 
 Each topic below corresponds to ~1-2 lectures.
 
@@ -40,12 +43,12 @@ Each topic below corresponds to ~1-2 lectures.
 - Vector spaces and spans.
 - Matrices, linear independence, and rank.
 - Multiple linear regression, using both projections and vector calculus.
+- Partial derivatives and gradient vectors.
 - Gradient descent.
 - Eigenvalues and eigenvectors.
 - Singular value decomposition (SVD) and Principal Components Analysis (PCA).
 - The PageRank algorithm.
-- Sample spaces and events.
-- Discrete random variables.
+- Random variables.
 - Independence and conditional independence.
 - Maximum likelihood estimation.
 
