@@ -30,7 +30,7 @@ Linear algebra forms the basis of modern machine learning and artificial intelli
 <!-- ## Content -->
 
 {: .green }
-Linear algebra, calculus, and probability form the basis of modern machine learning and artificial intelligence. **This course will introduce linear algebra from scratch, with the goal of developing a foundational understanding of the mathematical underpinnings of machine learning.** It will focus on giving students strong intuition for how linear algebra is applied in machine learning, and will bring in ideas from calculus and probability to fully illustrate relevant concepts. While the course is primarily theoretical, we'll look at practical applications involving real data in Python each week, so that students are able to apply what they've learned.
+Linear algebra, calculus, and probability form the basis of modern machine learning and artificial intelligence. **This course will introduce linear algebra from scratch, with the goal of developing a foundational understanding of the mathematical underpinnings of machine learning.** It will focus on giving students strong intuition for how linear algebra, calculus and probability are used in machine learning. While the course is primarily theoretical, we'll look at practical applications involving real data in Python each week, so that students are able to apply what they've learned.
 
 ## Content
 
