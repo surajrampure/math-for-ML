@@ -17,7 +17,7 @@ EECS 298, Fall 2025 at the <b><span style="background-color: #FFCB05; color: #00
 
 <!-- <small>*Sections 005 and 006</small> -->
 
-4 credits • Open to all majors • Credit TBD 
+4 credits • Open to all majors
 
 <!-- {: .green }
 Linear algebra forms the basis of modern machine learning and artificial intelligence. _Mathematics for Machine Learning_ will introduce students to the theory of linear algebra while exposing them to its applications to real-world machine learning problems using Python. After taking this course, students will understand the mathematical underpinnings of linear regression, neural networks, gradient descent, decision trees, dimensionality reduction, and other core ideas in machine learning. -->
@@ -30,7 +30,7 @@ Linear algebra forms the basis of modern machine learning and artificial intelli
 <!-- ## Content -->
 
 {: .green }
-Linear algebra, calculus, and probability form the basis of modern machine learning and artificial intelligence. **This course will introduce linear algebra from scratch, with the goal of developing a foundational understanding of the mathematical underpinnings of machine learning.** It will focus on giving students strong intuition for how linear algebra, calculus and probability are used in machine learning. While the course is primarily theoretical, we'll look at practical applications involving real data in Python each week, so that students are able to apply what they've learned.
+Linear algebra, calculus, and probability form the basis of modern machine learning and artificial intelligence. **This course will introduce linear algebra from scratch, by focusing on methods and examples from machine learning.** It will focus on giving students strong intuition for how linear algebra, calculus and probability are used in machine learning. While the course is primarily theoretical, we'll look at practical applications involving real data in Python each week, so that students are able to apply what they've learned.
 
 ## Content
 
@@ -73,7 +73,7 @@ Since this information is not on ATLAS, course evaluations from Suraj's Fall 202
 
 **What are the prerequisites?**
 
-- Calculus 2 or EECS 203 (or some other math class _after_ Calculus 1).
+- EECS 203 or Math 116 (or Math 215, 216, 275, 285, or 295).
 - Some 100-level programming class (e.g. EECS 183, ENGR 101, ROB 102, or similar).
 
 If you're not sure if you meet the prerequisites, email the instructor.
@@ -81,7 +81,7 @@ If you're not sure if you meet the prerequisites, email the instructor.
 **Who should take this class?**
 
 Anyone who:
-- Hasn't already taken a linear algebra course.
+- Hasn't already taken a linear algebra course (if you've already taken Math 214, 217, 417, or 419, this course is not for you).
 - Plans on taking Upper-Level CS courses about machine learning and artificial intelligence (e.g. EECS 445, DATASCI 415) **and/or** wants to gain exposure to machine learning and Python early in their academic careers.
 
 **What makes this different from other linear algebra courses?**
@@ -89,10 +89,6 @@ Anyone who:
 This course aims to provide:
 - Enough rigor to ensure students can succeed in more theoretical ULCS courses (like EECS 445).
 - Enough context, motivation, and applications for students to see _why_ linear algebra is useful in machine learning, throughout the entire course.
-
-**What does this course count for?**
-
-TBD.
 
 **Is this class the same as EECS 398: Practical Data Science?**
 
